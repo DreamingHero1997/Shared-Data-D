@@ -1,0 +1,32 @@
+{   
+   "name": "SharedDataD",   
+   "title": "Shared Data D",   
+   "description": "Sharing data across worlds",   
+   "author": "DreamingHero",
+   "version": "1.0.0",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.5.5",
+   "packs": [
+    {
+      "name": "General Feats",
+      "label": "General Feats",
+      "path": "packs/general-feats.db",
+      "entity": "Item",
+      "module": "SharedDataD"
+    },
+    {
+      "name": "Fighting Style Rework",
+      "label": "Fighting Style Rework",
+      "path": "packs/fighting-style-rework.db",
+      "entity": "Item",
+      "module": "SharedDataD"
+    }	
+    {
+      "name": "Feat Expansions",
+      "label": "Feat Expansions",
+      "path": "packs/feat-expansions.db",
+      "entity": "Item",
+      "module": "SharedDataD"
+    }	
+  ]
+ }
