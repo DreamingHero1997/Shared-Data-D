@@ -20,7 +20,7 @@
       "path": "packs/fighting-style-rework.db",
       "entity": "Item",
       "module": "SharedDataD"
-    }	
+    },	
     {
       "name": "Feat Expansions",
       "label": "Feat Expansions",
